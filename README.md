@@ -2,6 +2,8 @@
 
 *Bachelor's Thesis in Physics · Universitat de València · 2026–2027*
 
+**The full thesis is available here:** [Pablo-Ramon-Muro_Thesis-Physics_Dynamical-Dark-Energy-DESI.pdf](Pablo-Ramon-Muro_Thesis-Physics_Dynamical-Dark-Energy-DESI.pdf) (in Spanish).
+
 Code and data analysis for my Bachelor's Thesis (*Trabajo de Fin de Grado*) in Physics at the Universitat de València.
 
 * **Title:** *Dynamical Dark Energy and the Results of the DESI Collaboration* (*Energía Oscura Dinámica y los resultados de la Colaboración DESI*)

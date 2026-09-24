@@ -101,7 +101,7 @@ The fitted values are compared throughout with the ones published by DESI. The C
 
 ## License
 
-The code in this repository is released under the MIT License (see [`LICENSE`](LICENSE). The text and the figures of the thesis itself (the PDF) are © Pablo Ramón Muro and are shared here for reading and citation only.
+The code in this repository is released under the MIT License (see [`LICENSE`](LICENSE)). The text and the figures of the thesis itself (the PDF) are © Pablo Ramón Muro and are shared here for reading and citation only.
 
 ## Contact
 

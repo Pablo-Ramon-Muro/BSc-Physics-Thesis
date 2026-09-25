@@ -2,6 +2,8 @@
 
 *Bachelor's Thesis in Physics · Universitat de València · 2026–2027*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22958447.svg)](https://doi.org/10.5281/zenodo.22958447)
+
 Code and data analysis for my Bachelor's Thesis (*Trabajo de Fin de Grado*) in Physics at the Universitat de València.
 
 * **Title:** *Dynamical Dark Energy and the Results of the DESI Collaboration* (*Energía Oscura Dinámica y los resultados de la Colaboración DESI*)

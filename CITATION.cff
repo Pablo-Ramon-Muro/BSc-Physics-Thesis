@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Dynamical Dark Energy and the Results of the DESI Collaboration — thesis code"
+message: "If you use this code, please cite it using the metadata in this file."
+type: software
+authors:
+  - given-names: Pablo
+    family-names: Ramón Muro
+    email: pramonmuro@gmail.com
+    affiliation: Universitat de València
+repository-code: "https://github.com/Pablo-Ramon-Muro/dynamical-dark-energy-desi"
+license: MIT
+version: v1.0.2
+date-released: "2026-09-25"
+doi: 10.5281/zenodo.22958447

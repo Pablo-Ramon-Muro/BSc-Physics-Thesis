@@ -1,6 +1,6 @@
 # Dynamical Dark Energy and the Results of the DESI Collaboration
 
-*Bachelor's Thesis in Physics · Universitat de València · 2025–2026*
+*Bachelor's Thesis in Physics · Universitat de València · 2026–2027*
 
 Code and data analysis for my Bachelor's Thesis (*Trabajo de Fin de Grado*) in Physics at the Universitat de València.
 
@@ -8,7 +8,7 @@ Code and data analysis for my Bachelor's Thesis (*Trabajo de Fin de Grado*) in P
 * **Author:** Pablo Ramón Muro
 * **Supervisors:** Juan Herrero García and Maximilian Berbig (Departamento de Física Teórica, IFIC, CSIC–UV)
 * **Degree:** Double Bachelor's Degree in Physics and Mathematics, Universitat de València
-* **Academic year:** 2025–2026
+* **Academic year:** 2026–2027
 
 > The written thesis is not included in this repository yet. It will be added once it has been formally submitted to the university.
 
